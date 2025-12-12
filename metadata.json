@@ -1,0 +1,7 @@
+{
+  "name": "AquaPulse",
+  "description": "An intelligent water ecosystem app that uses AI audio fingerprinting to track usage, detect leaks, and provide AR repair assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
